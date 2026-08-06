@@ -6,8 +6,10 @@ Fun fact: Hopefully AI doesn't replace me before I finish learning. 🤣
 <h1></h1>
 <a href='https://spotify-github-profile.kittinanx.com/api/view?uid=31zbucji7pk2dztlrkplfgqg4qs4&redirect=true'>
  <img src='https://spotify-github-profile.kittinanx.com/api/view?uid=31zbucji7pk2dztlrkplfgqg4qs4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false'> </a>  
- <a href='https://main.jcmainclr.top/assets/music' 
-<img src='https://api.jcmainclr.top/api/discord_rpc/spotify_gif?id=1237396673098027029' width='600'></a>a
+
+<a href='main.jcmainclr.top/assets/music'>
+ <img src='https://api.jcmainclr.top/api/discord_rpc/spotify_gif?id=1237396673098027029'> </a>  
+ 
 
 <b>What I Enjoy:</b>
 - Technology

@@ -10,7 +10,7 @@ Fun fact: Hopefully AI doesn't replace me before I finish learning. 🤣
 
 
 
-<img src="https://api.jcmainclr.top/api/discord_rpc/spotify?id=1237396673098027029" width="800" />
+![Spotify](https://api.jcmainclr.top/api/discord_rpc/spotify_gif?id=1237396673098027029&theme=amoled)
 <b>What I Enjoy:</b>
 - Technology
 - Cycling

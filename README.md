@@ -8,7 +8,7 @@ Fun fact: Hopefully AI doesn't replace me before I finish learning. 🤣
  <img src='https://spotify-github-profile.kittinanx.com/api/view?uid=31zbucji7pk2dztlrkplfgqg4qs4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false'> </a>  
 
 <a href='main.jcmainclr.top/assets/music' target="_blank">
- <img src='https://api.jcmainclr.top/api/discord_rpc/spotify?id=1237396673098027029&theme=amoled'> </a>  
+![Spotify](https://api.jcmainclr.top/api/discord_rpc/spotify?id=1237396673098027029&theme=amoled&t=<!--TIMESTAMP-->) </a>  
  
 
 <b>What I Enjoy:</b>
